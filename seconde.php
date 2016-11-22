@@ -1,6 +1,8 @@
 <?
 $a=1;
+
 if($a==1){
-  echo "hello word!!";
+  
+  echo "Marry said"."hello word!!";
 }
 ?>
